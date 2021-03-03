@@ -3,8 +3,8 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
 
 html {
-    background-color: lightgray;
-    font-family: 'Quicksand', sans-serif;
+    background-color:#C0A9BD;
+    font-family: 'Tangerine', serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
@@ -111,3 +111,11 @@ footer {
     }
     
 }
+.sf-snow-flake {
+    position: fixed;
+    top: -20px;
+    z-index: 99999;
+    }
+    .sf-snow-anim {
+    top: 110%;
+    }
