@@ -1,10 +1,10 @@
 /* Global rules */
 
-@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.google.com/specimen/Titillium+Web?preview.text_type=custom');
 
 html {
     background-color:#C0A9BD;
-    font-family: 'Tangerine', serif;
+    font-family: 'titllium' ;
     font-size: 0.95em;
     line-height: 1.5em;
 }
